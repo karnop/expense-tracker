@@ -1,7 +1,6 @@
 # .gitignore
 # Binaries
 /bin/
-tracker
 tracker.exe
 
 # OS specific
