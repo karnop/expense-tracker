@@ -1,0 +1,9 @@
+# .gitignore
+# Binaries
+/bin/
+tracker
+tracker.exe
+
+# OS specific
+.DS_Store
+Thumbs.db
